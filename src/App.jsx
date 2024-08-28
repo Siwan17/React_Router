@@ -15,6 +15,7 @@ const App = () => {
     // Add your authentication logic here
     console.log('Email:', email);
     console.log('Password:', password);
+    console.log("New changes")
   };
 
   return (
